@@ -15,7 +15,7 @@ body
     justify-content: start;
     background-color:#001858;
     position: fixed;
-    margin-top: 10px;
+    
 }
 .shirtpng{
    margin: 5px 40px;
@@ -53,8 +53,20 @@ body
     text-decoration: none;
     font-size: 20px;
 }
+.tittle
+{
+    background-color:#f3d2c1 ;
+    height: 350px;
+    width:2090px;
+    margin-top: 10px;
+}
+.class
+{
+    
 
-
+    
+    
+}
 
 
 
