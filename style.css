@@ -14,7 +14,7 @@ body
     flex-direction: row;
     justify-content: start;
     background-color:#001858;
-    position: fixed;
+    
     
 }
 .shirtpng{
@@ -144,15 +144,28 @@ body
             
         }
       
-        .all-class
+        .all-card
         {
             display: flex;
             flex-direction: row;
             align-items: center;
-            margin-top: 40px;
+            margin-top: 70px;
+            justify-content: center;
         }
-
-
+        .background
+        {
+            background-color:#f3d2c1 ;
+            width: 1600px;
+            height: 500px;
+            margin-top: 10px;
+        }
+        .add-pic
+        {
+            height: 500px;
+            width: 1600px;
+            
+        }
+      
 
 
 
