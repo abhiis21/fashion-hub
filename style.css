@@ -165,7 +165,14 @@ body
             width: 1600px;
             
         }
-      
+        .font
+        {
+            font-family: 'Tangerine', serif;
+            font-size: large;
+            
+            width: 60px;
+        }
+        
 
 
 
